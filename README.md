@@ -35,7 +35,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Screenshot 2025-05-19 194312](https://github.com/user-attachments/assets/6b084cb9-1ebc-4eb7-b4f3-23acd0dc57b1)
+![image](https://github.com/user-attachments/assets/e0fce165-a40a-4b0d-83c5-18aec2e7362c)
 
 # RESULT:
 The program for advanced-encryption-standard algorithm was successful
